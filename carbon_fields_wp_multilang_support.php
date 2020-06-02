@@ -250,6 +250,7 @@ function crb_delete_field_value_on_save($delete, $field)
 {
     $delete_types = [
       'association',
+      'media_gallery',
     ];
 
     $field_type = $field->get_type();
