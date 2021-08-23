@@ -1,6 +1,15 @@
 <?php
 
 /*
+Plugin Name: WP Multilang integration for Carbon Fields
+Plugin URI:
+Description: This plugin enables translations for Carbon Fields plugin.
+Author: Anthony R
+Version: 0.1
+Author URI:
+*/
+
+/*
  This is a set of hooks and functions that makes Carbon Fields work with WP Multilang.
  Works with complex fields.
  It works only with single value fields (text, rich text, image etc.) and doesn't work with multiple value fields such as gallery.
